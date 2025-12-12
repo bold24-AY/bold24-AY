@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Ayush Thakur
 
-<!--
-**bold24-AY/bold24-AY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a C++ developer interested in open-source contributions, system-level problem solving, and performance-oriented programming.  
+My current focus is improving my understanding of data structures, algorithms, and real-world software development.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm Working On
+- Contributing to C++ open-source repositories  
+- Building small and efficient C++ applications  
+- Improving data structures and algorithms  
+- Learning professional Git and GitHub workflows  
+
+---
+
+## Skills and Tools
+*Languages:* C++ (primary), Python (beginner)  
+*Tools:* Git, GitHub, VS Code  
+*Concepts:* STL, OOP, DSA, basic algorithm optimization  
+
+---
+
+## Goals for 2026
+- Make multiple C++ open-source contributions  
+- Build at least two meaningful C++ projects  
+- Maintain consistent activity on GitHub  
+- Prepare for SDE-1 roles 
+
+---
+
+## Contact
+Email: *itsayush24may@gmail.com*  
+GitHub: *bold24-AY*
+
+---
+
+## Additional Notes
+I enjoy working on problems related to logic, performance, and clean code.  
+Open-source contribution is my current focus for gaining practical experience.
